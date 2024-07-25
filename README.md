@@ -1,7 +1,7 @@
 ﻿# api-news-app
-<p>
-News Web App made using API support from <a href="https://worldnewsapi.com/">https://worldnewsapi.com/</a>
-<a href="https://world24news.netlify.app/">Demo: https://world24news.netlify.app/</a>
+
+<p>News Web App made using API support from <a href="https://worldnewsapi.com/">https://worldnewsapi.com/</a></p>
+<p>Demo: <a href="https://world24news.netlify.app/">https://world24news.netlify.app/</a></p>
 </p>
 Features:
 <ul>
